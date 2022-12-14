@@ -244,4 +244,16 @@ Pour améliorer leur image, nous pouvons mettre en avant la participation de l'e
 
 - Quel est le moyen pour vous de mettre en avant vos offres ?
 
-- 
+- Comment actualisez-vous vos offres ?
+
+- Quel processus etablisez-vous pour effectuer un recretument ?
+
+- Par quels moyens positionnez-vous les jeunes sur les offres d'entreprises ?
+
+- Quel sont les dispositives qui constitue votre reseau ?
+
+- Utilisez-vous les reseaux sociaux pour communiquer ?
+
+- Est-ce que vous mettez en avant les taux de resussites des jeunes ?
+
+- Et des jeunes qui reussissent leur insertion dans le millieu professionel 
