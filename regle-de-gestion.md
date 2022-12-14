@@ -82,6 +82,12 @@
 
 #### Pour les partenaires
 
-- 
+- ils peuvent visiter le site
+
+- deposer des offres sur le site (visible ou non par les jeunes)
+
+- contacter les conseillers de la mission locale 
+
+- mettre en avant leur (images), envoie des statistiques sur leur partipation a l'insertion des jeunes
 
  
