@@ -210,3 +210,11 @@ Pour améliorer leur image, nous pouvons mettre en avant la participation de l'e
 - Les jeunes peuvent-ils trouver des informations sur les bourses d'études et les aides financières sur le site de la Mission Locale ?
 - Y a-t-il des liens vers d'autres sites ou ressources utiles pour les jeunes sur le site de la Mission Locale ?
 - Les jeunes peuvent-ils envoyer des messages ou poser des questions en ligne à un conseiller de la Mission Locale ? Si oui, comment ?
+
+- Quels sont les objectifs de la refonte de votre site web ?
+- Quels sont les points forts et les points faibles de votre site actuel ?
+- Quelles sont les fonctionnalités que vous souhaitez voir apparaître sur le nouveau site ?
+- Quel type de contenu souhaitez-vous présenter sur votre site (texte, images, vidéos, etc.) ?
+- Quels sont les sites web de vos concurrents que vous appréciez ou que vous aimeriez que votre site ressemble ?
+- Quel public cible souhaitez-vous atteindre avec votre site web (âge, sexe, profession, etc.) ?
+- Quels sont les canaux que vous utilisez actuellement pour promouvoir votre site web (réseaux sociaux, campagnes publicitaires, etc.) ?
