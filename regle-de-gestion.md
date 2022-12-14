@@ -40,32 +40,48 @@
 
 - les jeunes peuvent avoir access a des offre d'emplois, des sessions de formations, ect...
 
-- ...
+- les jeunes peuvent s'incrire depuis le site
+
+- les jeunes peuvent communiquer via des messages directement avec leur conseiller
 
 #### Pour les employes:
 
 - root (personnes a nombre limiter):
 
-- - acces complet aux configurations techniques
+- - a acces complet aux configurations techniques
   
-  - gestion des droits et autorisations
+  - s'occupe de la gestion des droits et autorisations
   
-  - droit de modification sur profils
+  - a les droits de modification sur les profils
   
-  - droit de modification ...
+  - a les droits de modification ...
+
+- le(s) pesonne(s) ayant les droit root, peuvent modifier tous contenus, gerer les droits, gerer les autorisations
 
 - administrateur:
 
-- - acces complet (sauf config techniques)
+- - a acces complet (sauf config techniques)
   
-  - acces aux options
+  - a acces aux options
   
-  - acces aux mentions
+  - a acces aux mentions
   
-  - acces aux formulaires
+  - a acces aux formulaires
 
 - moderateur:
 
-- - 
+- - s'occupe de la validation des ajouts
+  
+  - peut effectuer des modifications sur les contenus
+
+- utilisateur:
+
+- - peut proposer des contenus redactionnels (apres validation moderateur ou +)
+  
+  - ...
+
+#### Pour les partenaires
+
+- 
 
  
