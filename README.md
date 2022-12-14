@@ -257,3 +257,18 @@ Pour améliorer leur image, nous pouvons mettre en avant la participation de l'e
 - Est-ce que vous mettez en avant les taux de resussites des jeunes ?
 
 - Et des jeunes qui reussissent leur insertion dans le millieu professionel 
+
+### Autre questions
+- Quels sont les éléments clés que vous souhaitez mettre en avant ?
+- Quels sont les principaux messages que vous souhaitez transmettre à travers votre site ?
+- Quels sont les principales fonctionnalités que vous souhaitez inclure sur votre site (blog, formulaire de contact, galerie d'images, etc.) ?
+- Avez-vous des exemples de sites que vous aimez et que vous aimeriez que notre équipe s'inspire pour le design de votre site ?
+- Avez-vous des idées précises sur la façon dont vous souhaitez que votre site soit optimisé pour les moteurs de recherche (SEO) ? Pouvez-vous me fournir une liste de mots-clés et de phrases-clés que vous souhaitez cibler pour améliorer votre visibilité sur les moteurs de recherche ?
+- Avez-vous des exigences en matière d'accessibilité pour votre site Web (conformité aux normes WCAG, outils d'accessibilité pour les personnes handicapées, etc.) ?
+- Comment travaillez-vous avec vos partenaires pour les défis auxquels vous êtes confrontés ?
+- Quelles fonctionnalités souhaiteriez-vous ajouter ou améliorer sur votre site ?
+- Quel type de design souhaiteriez-vous pour votre site ?
+- Comment souhaitez-vous que votre site soit mis à jour et géré à l'avenir ?
+- Comment souhaitez-vous que votre site soit optimisé pour les moteurs de recherche ?
+- Comment souhaitez-vous que votre site soit utilisé par vos clients et par les visiteurs ?
+- Quels sont les autres canaux que vous utilisez pour communiquer avec vos clients et les visiteurs ? Comment souhaitez-vous que votre site s'intègre avec ces canaux ?
