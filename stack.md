@@ -19,7 +19,7 @@
 
 #### Introduction
 
-Pour nous faire notre choix de technologie nous nous somme poser les bonne questions, nous avons rechercher les technologies les plus hype, en soit les meilleur technologie, nous avons etudier ces differents outils pour une meilleur comprehension de leur fonctionnalitee propre a chacun, nous les avons comparer une par une entre elles, puis nous les avons comparer avec les besoins du client. En soit nous avons privilligier les besoins clients sans pour autant perdre en performances, reactivitee, securitee.
+Pour faire notre choix de technologie, nous nous sommes posé les bonnes questions. Nous avons recherché les technologies les plus hypes, en soit les meilleures technologies. Nous avons étudié ces différents outils afin d'avoir une meilleure compréhension de leur fonctionnalité qui sont propre a chacun. Nous les avons comparés une par une, puis nous les avons comparés avec les besoins du client. En soit nous avons privilégié les besoins client sans pour autant perdre en performances, réactivité, sécurité.
 
 Pour realiser ces comparatifs nous avons mis en place une strategie disposer sur un tableur les points essentiels pour repondre aux besoins client, pour nous appuyer dessus en permanance pour resoudre les differents points de comparaisons et ainsi nous permettre d'avancer, dans la bonne direction. Le but de cette methode de travail et de mettre de cote nos prejuger, nos preferences, et nos gouts en vers certaines technologies, nous nous somme reposer sur le resultat de nos comparatif, pour une meilleure vue d'ensemble sur le choix a faire, pour repondre aux besoin de la misssion local de Valenciennes.
 
