@@ -1,7 +1,5 @@
 # Regles de gestion
 
-
-
 ## Les acteurs
 
 - Les jeunes
@@ -27,8 +25,6 @@
   - association
   
   - ...
-
-
 
 # Les regles
 
@@ -89,5 +85,3 @@
 - contacter les conseillers de la mission locale 
 
 - mettre en avant leur (images), envoie des statistiques sur leur partipation a l'insertion des jeunes
-
- 
