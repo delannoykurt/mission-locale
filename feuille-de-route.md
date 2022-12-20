@@ -66,20 +66,109 @@ tous parties public:
 
 - consulte les actus
 
-- interagir avec le tchat-bot
+- intéragir avec le tchat-bot
 
-- acceder aux reseaux sociaux
+- accéder aux réseaux sociaux
 
-- voie les evenements
+- voir les évènements
 
-- acceder aux differents articles
+- accéder aux différents articles
 
-- acceder a la page de connexion
+- accéder à la page de connexion
 
 - prendre contact
 
-- peux s'inscrire
+- demande de création de compte
 
 - effectuer une recherche via le moteur de recherche
 
 - s'inscrire aux newsletters
+
+### Jeune
+
+**Visiteur**
+
+- peut se connecter
+
+- prise de RDV
+
+- envoie des messages à son conseillé
+
+- se positionne sur les offres
+
+- gérer son profil
+
+- demande de suppression de son compte
+
+- s'inscrire à des ateliers
+  
+- rencontrer son conseillé
+
+- echanger des documents
+  
+### Entreprise
+
+**Visiteur**
+
+- gérer les offres d'emploi
+  
+- se connecter
+
+- gérer son profil
+  
+- créer des évènements / ateliers
+  
+### Conseillé
+
+**Jeune**
+
+- peut se connecter
+
+- prendre des RDV avec des jeunes
+  
+- Echanger des messages
+
+- voir les positionnements sur les offres
+  
+- validation des comptes
+  
+- gestion du contenu (création, modification, suppression):
+  
+    - création de page
+  
+    - création d'articles
+
+    - création de posts
+
+    - création d'évènements
+
+    - création d'ateliers
+
+- s'attribuer des jeunes
+
+### Modérateur
+
+**Conseillé**
+**Entreprise**
+  
+- gestion/ approbation contenu
+
+### Administrateur
+
+**Modérateur**
+
+- création des comptes conseillés/modérateurs
+  
+- gestion monitoring / stats
+
+- gestion base de donnée
+  
+### Super Admin
+
+- création des comptes admin
+
+### Root
+
+- gestion droit autorisation
+  
+- accès complet
