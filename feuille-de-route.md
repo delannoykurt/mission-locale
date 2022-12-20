@@ -102,7 +102,7 @@ tous parties public:
 
 - s'inscrire à des ateliers
   
-- rencontrer son conseillé
+- voir le conseillé qui lui est affecté
 
 - echanger des documents
   
