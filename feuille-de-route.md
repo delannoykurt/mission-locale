@@ -81,9 +81,6 @@ en tant conseillé je peux:
 
 - supprimer
 
-entreprise:
-- 
-
 jeune :
 
 - intéragir 
@@ -100,9 +97,6 @@ en tant que visiteur je peux:
 
 ### offre
 
-En tant qu'entreprise
-super admin:
--
 
 en tant qu'admin je peux : 
 
@@ -115,10 +109,6 @@ en tant conseillé je peux :
 - mettre en avant
   
 - positionner un jeune
-
-entreprise :
-- demander à modifier son offre d'emploi
-- demander à poster son offre
 en tant que jeune je peux :
 - positionner 
 
@@ -157,64 +147,32 @@ en tant que visiteur je peux :
 
 
 ### evenement
-super admin:
-- valide les choix admin / modérateur
-
-admin:
-- affiche/modifie/supprime les offres
-
-modérateur:
-- affiche/modifie/supprime les offres
-
-conseillé:
-- conseils / oriente le jeune 
-- positionne le jeune
-  
-entreprise:
-
-jeune:
-- participer 
-- se positionne 
-
-visiteur:
-- voit les événements
+- En tant que modérateur, je peux afficher, modifier et supprimer les évènements.
+- En tant que conseillé, je conseil et oriente le jeune  afin de confirmer ses choix.
+- En tant que conceillé, je positionne le jeune sur les évènements afin de l'aider.
+- En tant qu'entreprise je peux créer des événements / ateliers afin recruter des jeunes.
+- En tant que jeune je peux participer aux évènements / ateliers afin de travailler auprès des entreprises.
+- En tant que jeune, je peux me positionner sur les évènements / ateliers  afin de confirmer mes choix.
+- En tant que visiteur, je peux voir les événements existantes afin de me renseigner.
 
   
 ### sante
-super admin:
-admin:
-modérateur:
-conseillé:
-- informe le jeune
-entreprise:
-jeune:
-- s'informe auprès du conseillé
-visiteur:
-- voit le site
+- En tant que modérateur, je souhaite mettre les aides existantes sur le site, afin d'informer des aides existantes.
+- En tant que conseillé, je souhaite informer le jeune sur les aides à la santé disponible afin de l'aider dans ses démarches administratives.
+- En tant que jeune, je souhaite obtenir plus détail auprès de mon conseillé afin de faire les démarches administratives.
+- En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
 
 ### logement
-super admin:
-admin:
-modérateur:
-conseillé:
-- informe le jeune
-entreprise:
-jeune:
-- s'informe auprès du conseillé
-visiteur:
-voit le site
+- En tant que modérateur, je souhaite montrer sur le site les aides existantes afin d'informer des aides existantes. 
+- En tant que conseillé, je souhaite informer le jeune sur les aides aux logements disponibles afin de l'aider dans ses démarches administratives.
+- En tant que jeune, je souhaite obtenir plus de détail auprès de mon conseillé afin de faire les démarches administratives.
+- En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
 
 ### mobilité
-super admin:
-admin:
-modérateur:
-conseillé:
-- informe le jeune
-entreprise:
-jeune:
-- s'informe auprès su conseillé
-visiteur:
-- voit le site
+- En tant que modérateur, je souhaite montrer sur le site les aides existantes afin d'informer des aides existantes.
+- En tant que conseillé, je souhaite informer le jeune sur les aides à la mobilité disponible afin de l'aider dans ses démarches administratives.
+- En tant que jeune, je souhaite obtenir plus de détail auprès de mon conseillé afin de faire les démarches administratives.
+- En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
 
 ### messagerie direct
 super admin:
