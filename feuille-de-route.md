@@ -44,8 +44,12 @@ modérateur:
 conseillé:
 - 
 
-jeune :
+entreprise :
 - 
+
+jeune :
+- En tant que jeune je souhaite réinitialiser mon mots de passe
+- En tant que jeune je souhaite me m'identifier 
 
 visiteur:
 - 
@@ -53,7 +57,7 @@ visiteur:
 
 ### page
 super admin :
- - valide l'action de l'admin 
+- valide l'action de l'admin 
 
 
 en tant qu'admin je peux:
@@ -77,6 +81,9 @@ en tant conseillé je peux:
 
 - supprimer
 
+entreprise:
+- 
+
 jeune :
 
 - intéragir 
@@ -92,8 +99,10 @@ en tant que visiteur je peux:
 
 
 ### offre
-super admin
 
+En tant qu'entreprise
+super admin:
+-
 
 en tant qu'admin je peux : 
 
@@ -106,9 +115,11 @@ en tant conseillé je peux :
 - mettre en avant
   
 - positionner un jeune
-  
-en tant que jeune je peux :
 
+entreprise :
+- demander à modifier son offre d'emploi
+- demander à poster son offre
+en tant que jeune je peux :
 - positionner 
 
 - candidater
@@ -132,6 +143,8 @@ modérateur:
 en tant qu'employé je peux : 
 
 - poster sur les réseaux sociaux
+  
+entreprise:
 
 jeune :
   
@@ -156,6 +169,8 @@ modérateur:
 conseillé:
 - conseils / oriente le jeune 
 - positionne le jeune
+  
+entreprise:
 
 jeune:
 - participer 
@@ -169,8 +184,9 @@ visiteur:
 super admin:
 admin:
 modérateur:
-consillé:
+conseillé:
 - informe le jeune
+entreprise:
 jeune:
 - s'informe auprès du conseillé
 visiteur:
@@ -182,6 +198,7 @@ admin:
 modérateur:
 conseillé:
 - informe le jeune
+entreprise:
 jeune:
 - s'informe auprès du conseillé
 visiteur:
@@ -193,6 +210,7 @@ admin:
 modérateur:
 conseillé:
 - informe le jeune
+entreprise:
 jeune:
 - s'informe auprès su conseillé
 visiteur:
@@ -204,6 +222,7 @@ admin:
 modérateur:
 conseillé:
 - echange avec le jeune
+entreprise:
 jeune:
 - echange avec son conseillé
 visiteur:
@@ -216,6 +235,8 @@ modérateur:
 
 conseillé:
 - poste/modifie sur les réseaux
+
+entreprise:
 
 jeune:
 - accès au réseaux sociaux
@@ -231,7 +252,10 @@ super admin:
 admin:
 modérateur:
 conseillé:
+- reçoit une alerte
+entreprise:
 jeune:
+- reçoit une alerte
 visiteur:
 
 ### gestion RDV
@@ -239,7 +263,10 @@ super admin :
 admin :
 modérateur:
 conseillé:
+- peut prendre un RDV avec un jeune
+entreprise:
 jeune :
+  peut prendre un RDV avec son conseillé
 visiteur :
 
 ### tchat-bot
@@ -247,16 +274,21 @@ super admin :
 admin :
 modérateur:
 conseillé:
+entreprise:
 jeune :
+- peut intéragir
 visiteur :
+- peut interagir
 
 ### systeme monitoring
 super admin :
 admin :
 modérateur:
 conseillé:
+entreprise:
 jeune :
-visiteur :
+visiteur:
+
 
 ### Visiteur
 
