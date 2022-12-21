@@ -48,35 +48,7 @@ afin de persister les donnees du site.
 
 ### page
 
-<<<<<<< HEAD
-
-en tant qu'admin je peux:
-
-- creer
-
-- modifier
-
-- supprimer
-
-modérateur :
-- valide l'action du conseillé 
-
-- peut ajouter du contenu
-
-en tant conseillé je peux:
-
-- creer
-
-- modifier
-
-- supprimer
-
-jeune :
-
-- intéragir 
-=======
 - En tant qu'administrateur, je veux pouvoir bloquer un compte utilisateur s'il enfreint les règles d'utilisation du site
->>>>>>> 756c466 (docs(commons): add use story)
   
   afin de maintenir un environnement sécurisé et agréable pour tous les utilisateurs.
 
@@ -162,10 +134,7 @@ afin de protéger ma vie privée.
 
 ### offre
 
-<<<<<<< HEAD
-=======
 super admin
->>>>>>> 756c466 (docs(commons): add use story)
 
 en tant qu'admin je peux : 
 
@@ -178,10 +147,7 @@ en tant conseillé je peux :
 - mettre en avant
 
 - positionner un jeune
-<<<<<<< HEAD
-=======
 
->>>>>>> 756c466 (docs(commons): add use story)
 en tant que jeune je peux :
 
 - positionner 
@@ -217,15 +183,6 @@ en tant que visiteur je peux :
 - s'inscrire à la newsletters
 
 ### evenement
-<<<<<<< HEAD
-- En tant que modérateur, je peux afficher, modifier et supprimer les évènements.
-- En tant que conseillé, je conseil et oriente le jeune  afin de confirmer ses choix.
-- En tant que conceillé, je positionne le jeune sur les évènements afin de l'aider.
-- En tant qu'entreprise je peux créer des événements / ateliers afin recruter des jeunes.
-- En tant que jeune je peux participer aux évènements / ateliers afin de travailler auprès des entreprises.
-- En tant que jeune, je peux me positionner sur les évènements / ateliers  afin de confirmer mes choix.
-- En tant que visiteur, je peux voir les événements existantes afin de me renseigner.
-=======
 
 super admin:
 
@@ -252,27 +209,8 @@ jeune:
 visiteur:
 
 - voit les événements
->>>>>>> 756c466 (docs(commons): add use story)
 
 ### sante
-<<<<<<< HEAD
-- En tant que modérateur, je souhaite mettre les aides existantes sur le site, afin d'informer des aides existantes.
-- En tant que conseillé, je souhaite informer le jeune sur les aides à la santé disponible afin de l'aider dans ses démarches administratives.
-- En tant que jeune, je souhaite obtenir plus détail auprès de mon conseillé afin de faire les démarches administratives.
-- En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
-
-### logement
-- En tant que modérateur, je souhaite montrer sur le site les aides existantes afin d'informer des aides existantes. 
-- En tant que conseillé, je souhaite informer le jeune sur les aides aux logements disponibles afin de l'aider dans ses démarches administratives.
-- En tant que jeune, je souhaite obtenir plus de détail auprès de mon conseillé afin de faire les démarches administratives.
-- En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
-
-### mobilité
-- En tant que modérateur, je souhaite montrer sur le site les aides existantes afin d'informer des aides existantes.
-- En tant que conseillé, je souhaite informer le jeune sur les aides à la mobilité disponible afin de l'aider dans ses démarches administratives.
-- En tant que jeune, je souhaite obtenir plus de détail auprès de mon conseillé afin de faire les démarches administratives.
-- En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
-=======
 
 super admin:
 admin:
@@ -310,7 +248,6 @@ conseillé:
 - s'informe auprès su conseillé
   visiteur:
 - voit le site
->>>>>>> 756c466 (docs(commons): add use story)
 
 ### messagerie direct
 

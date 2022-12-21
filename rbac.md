@@ -21,5 +21,3 @@ RBAC
 | gestion / approbation contenu | gestion du monitoring / stats                  |                             |                                    |
 |                               | gestion des bases de donnees                   |                             |                                    |
 |                               |                                                |                             |                                    |
-
-
