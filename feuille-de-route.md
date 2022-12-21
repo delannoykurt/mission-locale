@@ -28,11 +28,33 @@
 
 - systeme monitoring
 
+### Admin
+- valider les comptes
+- 
 
+super admin :
+- créer/supprimer/modifier des comptes administrateurs
+  
+admin :
+- créer/supprimer/modifier des comptes modérateurs/conseillés
 
+modérateur:
+- gestion du contenu
+
+conseillé:
+- 
+
+jeune :
+- 
+
+visiteur:
+- 
 
 
 ### page
+super admin :
+ - valide l'action de l'admin 
+
 
 en tant qu'admin je peux:
 
@@ -42,7 +64,12 @@ en tant qu'admin je peux:
 
 - supprimer
 
-en tant qu'employer je peux:
+modérateur :
+- valide l'action du conseillé 
+
+- peut ajouter du contenu
+
+en tant conseillé je peux:
 
 - creer
 
@@ -50,6 +77,12 @@ en tant qu'employer je peux:
 
 - supprimer
 
+jeune :
+
+- intéragir 
+  
+- se connecter
+  
 en tant que visiteur je peux:
 
 - consulter
@@ -59,16 +92,27 @@ en tant que visiteur je peux:
 
 
 ### offre
+super admin
+
 
 en tant qu'admin je peux : 
 
 - valider le post de l'employé
   
-en tant qu'employé je peux :
+modérateur:
+  
+en tant conseillé je peux :
 
 - mettre en avant
   
 - positionner un jeune
+  
+en tant que jeune je peux :
+
+- positionner 
+
+- candidater
+- 
 
 en tant que visiteur je peux :
 
@@ -77,14 +121,19 @@ en tant que visiteur je peux :
 
   
 ### actualité
+super admin:
 
 en tant qu'admin je peux :
 
 - poster sur les réseaux sociaux
+  
+modérateur:
 
 en tant qu'employé je peux : 
 
 - poster sur les réseaux sociaux
+
+jeune :
   
 en tant que visiteur je peux :
 
@@ -93,6 +142,121 @@ en tant que visiteur je peux :
 - s'inscrire à la newsletters
 
 
+
+### evenement
+super admin:
+- valide les choix admin / modérateur
+
+admin:
+- affiche/modifie/supprime les offres
+
+modérateur:
+- affiche/modifie/supprime les offres
+
+conseillé:
+- conseils / oriente le jeune 
+- positionne le jeune
+
+jeune:
+- participer 
+- se positionne 
+
+visiteur:
+- voit les événements
+
+  
+### sante
+super admin:
+admin:
+modérateur:
+consillé:
+- informe le jeune
+jeune:
+- s'informe auprès du conseillé
+visiteur:
+- voit le site
+
+### logement
+super admin:
+admin:
+modérateur:
+conseillé:
+- informe le jeune
+jeune:
+- s'informe auprès du conseillé
+visiteur:
+voit le site
+
+### mobilité
+super admin:
+admin:
+modérateur:
+conseillé:
+- informe le jeune
+jeune:
+- s'informe auprès su conseillé
+visiteur:
+- voit le site
+
+### messagerie direct
+super admin:
+admin:
+modérateur:
+conseillé:
+- echange avec le jeune
+jeune:
+- echange avec son conseillé
+visiteur:
+
+
+### communication externe
+super admin:
+admin:
+modérateur:
+
+conseillé:
+- poste/modifie sur les réseaux
+
+jeune:
+- accès au réseaux sociaux
+- participe au réseaux sociaux
+- accès à la newsletter
+
+visiteur:
+- accès au réseaux sociaux
+- accès à la newsletter
+
+### système de notification
+super admin:
+admin:
+modérateur:
+conseillé:
+jeune:
+visiteur:
+
+### gestion RDV
+super admin :
+admin :
+modérateur:
+conseillé:
+jeune :
+visiteur :
+
+### tchat-bot
+super admin :
+admin :
+modérateur:
+conseillé:
+jeune :
+visiteur :
+
+### systeme monitoring
+super admin :
+admin :
+modérateur:
+conseillé:
+jeune :
+visiteur :
 
 ### Visiteur
 
