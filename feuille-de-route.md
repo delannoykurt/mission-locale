@@ -29,36 +29,26 @@
 - systeme monitoring
 
 ### Admin
-- valider les comptes
-- 
 
-super admin :
-- créer/supprimer/modifier des comptes administrateurs
-  
-admin :
-- créer/supprimer/modifier des comptes modérateurs/conseillés
+- En tant qu'administrateur, je souhaite pouvoir creer des comptes
 
-modérateur:
-- gestion du contenu
+afin que les conseillers et les moderateurs dispose de comptes.
 
-conseillé:
-- 
+- En tant qu'administrateur, je souhaite pouvoir monitorer l'ensembe du site
 
-entreprise :
-- 
+afin d'avoir un suivie sur les stats du site.
 
-jeune :
-- En tant que jeune je souhaite réinitialiser mon mots de passe
-- En tant que jeune je souhaite me m'identifier 
+- En tant qu'administrateur, je souhaite pouvoir mettre en avant les stats 
 
-visiteur:
-- 
+afin de communiquer nos reussites.
 
+- En tant qu'administrateur, je souhaite pouvoir gerer des bases de donnees
+
+afin de persister les donnees du site.
 
 ### page
-super admin :
-- valide l'action de l'admin 
 
+<<<<<<< HEAD
 
 en tant qu'admin je peux:
 
@@ -84,69 +74,150 @@ en tant conseillé je peux:
 jeune :
 
 - intéragir 
+=======
+- En tant qu'administrateur, je veux pouvoir bloquer un compte utilisateur s'il enfreint les règles d'utilisation du site
+>>>>>>> 756c466 (docs(commons): add use story)
   
-- se connecter
+  afin de maintenir un environnement sécurisé et agréable pour tous les utilisateurs.
+
+- En tant qu'administrateur, je souhaite pouvoir ajouter un titre
+
+afin de nommer la page
+
+- En tant qu'administrateur, je souhaite pouvoir ajouter du texte
+
+afin de creer du contenu
+
+- En tant qu'administrateur, je souhaite pouvoir modifier un titre
+
+afin de mettre a jour une page
+
+- En tant qu'administrateur, je souhaite pouvoir modifier un texte
+
+afin de mettre a jour une page
+
+- En tant qu'administrateur, je souhaite pouvoir ajouter des bouttons
+
+afin d'ajouter des interactions
+
+- En tant qu'administrateur, je souhaite pouvoir modifier des bouttons
+
+afin de modifier les interactions
+
+- En tant  que moderateur, je souhaite pouvoir ajouter un titre
+
+afin de nommer la page
+
+- En tant que moderateur, je souhaite pouvoir ajouter du texte
+
+afin de creer du contenu
+
+- En tant que moderateur, je souhaite pouvoir modifier un titre
+
+afin de mettre a jour une page
+
+- En tant que moderateur, je souhaite pouvoir modifier un texte
+
+afin de mettre a jour une page
+
+- En tant que moderateur, je souhaite pouvoir ajouter des bouttons
+
+afin d'ajouter des interactions
+
+- En tant que moderateur, je souhaite pouvoir modifier des bouttons
+
+afin de modifier les interactions
+
+- En tant que conseiller, je souhaite pouvoir ajouter un titre
+
+afin de nommer la page
+
+- En tant que conseiller, je souhaite pouvoir ajouter du texte
+
+afin de creer du contenu
+
+- En tant que conseiller, je souhaite pouvoir modifier un titre
+
+afin de mettre a jour une page
+
+- En tant que conseiller, je souhaite pouvoir modifier un texte
+
+afin de mettre a jour une page
+
+- En tant qu'utilisateur, je veux pouvoir me connecter à mon compte en saisissant mon adresse e-mail et mon mot de passe .
+
+afin de accéder à mon espace personnel.
+
+- En tant qu'utilisateur, je veux pouvoir me connecter à mon compte en utilisant mon compte Google
   
-en tant que visiteur je peux:
+  afin de simplifier le processus de connexion.
 
-- consulter
+- En tant qu'utilisateur, je veux pouvoir recevoir un lien de réinitialisation de mot de passe par e-mail si j'ai oublié mon mot de passe. 
 
-- interagir
+afin de pouvoir accéder à mon compte.
 
+- En tant qu'utilisateur, je veux pouvoir me déconnecter de mon compte à tout moment 
 
+afin de protéger ma vie privée.
 
 ### offre
 
+<<<<<<< HEAD
+=======
+super admin
+>>>>>>> 756c466 (docs(commons): add use story)
 
 en tant qu'admin je peux : 
 
 - valider le post de l'employé
-  
+
 modérateur:
-  
+
 en tant conseillé je peux :
 
 - mettre en avant
-  
+
 - positionner un jeune
+<<<<<<< HEAD
+=======
+
+>>>>>>> 756c466 (docs(commons): add use story)
 en tant que jeune je peux :
+
 - positionner 
 
 - candidater
+
 - 
 
 en tant que visiteur je peux :
 
 - voir les offres
-  
 
-  
 ### actualité
+
 super admin:
 
 en tant qu'admin je peux :
 
 - poster sur les réseaux sociaux
-  
+
 modérateur:
 
 en tant qu'employé je peux : 
 
 - poster sur les réseaux sociaux
-  
-entreprise:
 
 jeune :
-  
+
 en tant que visiteur je peux :
 
 - aller voir les réseaux
-  
+
 - s'inscrire à la newsletters
 
-
-
 ### evenement
+<<<<<<< HEAD
 - En tant que modérateur, je peux afficher, modifier et supprimer les évènements.
 - En tant que conseillé, je conseil et oriente le jeune  afin de confirmer ses choix.
 - En tant que conceillé, je positionne le jeune sur les évènements afin de l'aider.
@@ -154,9 +225,37 @@ en tant que visiteur je peux :
 - En tant que jeune je peux participer aux évènements / ateliers afin de travailler auprès des entreprises.
 - En tant que jeune, je peux me positionner sur les évènements / ateliers  afin de confirmer mes choix.
 - En tant que visiteur, je peux voir les événements existantes afin de me renseigner.
+=======
 
-  
+super admin:
+
+- valide les choix admin / modérateur
+
+admin:
+
+- affiche/modifie/supprime les offres
+
+modérateur:
+
+- affiche/modifie/supprime les offres
+
+conseillé:
+
+- conseils / oriente le jeune 
+- positionne le jeune
+
+jeune:
+
+- participer 
+- se positionne 
+
+visiteur:
+
+- voit les événements
+>>>>>>> 756c466 (docs(commons): add use story)
+
 ### sante
+<<<<<<< HEAD
 - En tant que modérateur, je souhaite mettre les aides existantes sur le site, afin d'informer des aides existantes.
 - En tant que conseillé, je souhaite informer le jeune sur les aides à la santé disponible afin de l'aider dans ses démarches administratives.
 - En tant que jeune, je souhaite obtenir plus détail auprès de mon conseillé afin de faire les démarches administratives.
@@ -173,80 +272,114 @@ en tant que visiteur je peux :
 - En tant que conseillé, je souhaite informer le jeune sur les aides à la mobilité disponible afin de l'aider dans ses démarches administratives.
 - En tant que jeune, je souhaite obtenir plus de détail auprès de mon conseillé afin de faire les démarches administratives.
 - En tant que visiteur, je souhaite m'informer sur le site afin de me renseigner.
+=======
+
+super admin:
+admin:
+modérateur:
+consillé:
+
+- informe le jeune
+  jeune:
+- s'informe auprès du conseillé
+  visiteur:
+- voit le site
+
+### logement
+
+super admin:
+admin:
+modérateur:
+conseillé:
+
+- informe le jeune
+  jeune:
+- s'informe auprès du conseillé
+  visiteur:
+  voit le site
+
+### mobilité
+
+super admin:
+admin:
+modérateur:
+conseillé:
+
+- informe le jeune
+  jeune:
+- s'informe auprès su conseillé
+  visiteur:
+- voit le site
+>>>>>>> 756c466 (docs(commons): add use story)
 
 ### messagerie direct
+
 super admin:
 admin:
 modérateur:
 conseillé:
-- echange avec le jeune
-entreprise:
-jeune:
-- echange avec son conseillé
-visiteur:
 
+- echange avec le jeune
+  jeune:
+- echange avec son conseillé
+  visiteur:
 
 ### communication externe
+
 super admin:
 admin:
 modérateur:
 
 conseillé:
+
 - poste/modifie sur les réseaux
 
-entreprise:
-
 jeune:
+
 - accès au réseaux sociaux
 - participe au réseaux sociaux
 - accès à la newsletter
 
 visiteur:
+
 - accès au réseaux sociaux
 - accès à la newsletter
 
 ### système de notification
+
 super admin:
 admin:
 modérateur:
 conseillé:
-- reçoit une alerte
-entreprise:
 jeune:
-- reçoit une alerte
 visiteur:
 
 ### gestion RDV
+
 super admin :
 admin :
 modérateur:
 conseillé:
-- peut prendre un RDV avec un jeune
-entreprise:
 jeune :
-  peut prendre un RDV avec son conseillé
 visiteur :
 
 ### tchat-bot
+
 super admin :
 admin :
 modérateur:
 conseillé:
-entreprise:
 jeune :
-- peut intéragir
 visiteur :
-- peut interagir
 
 ### systeme monitoring
+
 super admin :
 admin :
 modérateur:
 conseillé:
-entreprise:
 jeune :
-visiteur:
-
+visiteur :
 
 ### Visiteur
 
@@ -291,23 +424,23 @@ tous parties public:
 - demande de suppression de son compte
 
 - s'inscrire à des ateliers
-  
+
 - voir le conseillé qui lui est affecté
 
 - echanger des documents
-  
+
 ### Entreprise
 
 **Visiteur**
 
 - gérer les offres d'emploi
-  
+
 - se connecter
 
 - gérer son profil
-  
+
 - créer des évènements / ateliers
-  
+
 ### Conseillé
 
 **Jeune**
@@ -315,24 +448,24 @@ tous parties public:
 - peut se connecter
 
 - prendre des RDV avec des jeunes
-  
+
 - Echanger des messages
 
 - voir les positionnements sur les offres
-  
+
 - validation des comptes
-  
+
 - gestion du contenu (création, modification, suppression):
   
-    - création de page
+  - création de page
   
-    - création d'articles
-
-    - création de posts
-
-    - création d'évènements
-
-    - création d'ateliers
+  - création d'articles
+  
+  - création de posts
+  
+  - création d'évènements
+  
+  - création d'ateliers
 
 - s'attribuer des jeunes
 
@@ -340,7 +473,7 @@ tous parties public:
 
 **Conseillé**
 **Entreprise**
-  
+
 - gestion/ approbation contenu
 
 ### Administrateur
@@ -348,11 +481,11 @@ tous parties public:
 **Modérateur**
 
 - création des comptes conseillés/modérateurs
-  
+
 - gestion monitoring / stats
 
 - gestion base de donnée
-  
+
 ### Super Admin
 
 - création des comptes admin
@@ -360,5 +493,5 @@ tous parties public:
 ### Root
 
 - gestion droit autorisation
-  
+
 - accès complet
