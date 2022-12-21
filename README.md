@@ -259,6 +259,7 @@ Pour améliorer leur image, nous pouvons mettre en avant la participation de l'e
 - Et des jeunes qui reussissent leur insertion dans le millieu professionel 
 
 ### Autre questions
+
 - Quels sont les éléments clés que vous souhaitez mettre en avant ?
 - Quels sont les principaux messages que vous souhaitez transmettre à travers votre site ?
 - Quels sont les principales fonctionnalités que vous souhaitez inclure sur votre site (blog, formulaire de contact, galerie d'images, etc.) ?
@@ -271,4 +272,4 @@ Pour améliorer leur image, nous pouvons mettre en avant la participation de l'e
 - Comment souhaitez-vous que votre site soit mis à jour et géré à l'avenir ?
 - Comment souhaitez-vous que votre site soit optimisé pour les moteurs de recherche ?
 - Comment souhaitez-vous que votre site soit utilisé par vos clients et par les visiteurs ?
-- Quels sont les autres canaux que vous utilisez pour communiquer avec vos clients et les visiteurs ? Comment souhaitez-vous que votre site s'intègre avec ces canaux ?
+- Quels sont les autres canaux que vous utilisez pour communiquer avec vos clients et les visiteurs ? Comment souhaitez-vous que votre site s'intègre avec ces canaux 
