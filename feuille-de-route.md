@@ -58,6 +58,42 @@ en tant que visiteur je peux:
 
 
 
+### offre
+
+en tant qu'admin je peux : 
+
+- valider le post de l'employé
+  
+en tant qu'employé je peux :
+
+- mettre en avant
+  
+- positionner un jeune
+
+en tant que visiteur je peux :
+
+- voir les offres
+  
+
+  
+### actualité
+
+en tant qu'admin je peux :
+
+- poster sur les réseaux sociaux
+
+en tant qu'employé je peux : 
+
+- poster sur les réseaux sociaux
+  
+en tant que visiteur je peux :
+
+- aller voir les réseaux
+  
+- s'inscrire à la newsletters
+
+
+
 ### Visiteur
 
 tous parties public:
