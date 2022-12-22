@@ -213,11 +213,8 @@ afin de protéger ma vie privée.
 - En tant que visiteur, je souhaite pouvoir utiliser le tchat bot pour obtenir rapidement des réponses à mes questions.
 
 ### systeme monitoring
-
-super admin :
-admin :
-modérateur:
-conseillé:
-jeune :
-visiteur :
-
+- En tant que super admin je peux voir le nombre de personne qui se sont connectés. 
+- En tant qu'administrateur, je souhaite pouvoir configurer les paramètres de monitoring pour surveiller les différents équipements de l'entreprise afin de maintenir leur bon fonctionnement.
+- En tant qu'administrateur, je veux pouvoir autoriser ou refuser l'accès à certaines fonctionnalités du système de monitoring pour les différents utilisateurs en fonction de leurs rôles et de leurs responsabilités.
+- En tant que modérateur, je souhaite pouvoir recevoir des notifications en cas d'anomalie détectée par le système de monitoring afin de pouvoir agir rapidement et éviter tout problème.
+- En tant que modérateur, je veux pouvoir configurer des alertes personnalisées pour être informé immédiatement en cas de problème spécifique sur un équipement ou un processus.
