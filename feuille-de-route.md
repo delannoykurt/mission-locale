@@ -134,55 +134,21 @@ afin de protéger ma vie privée.
 
 ### offre
 
-super admin
-
-en tant qu'admin je peux : 
-
-- valider le post de l'employé
-
-modérateur:
-
-en tant conseillé je peux :
-
-- mettre en avant
-
-- positionner un jeune
-
-en tant que jeune je peux :
-
-- positionner 
-
-- candidater
-
-- 
-
-en tant que visiteur je peux :
-
-- voir les offres
+- En tant que conseillé, je souhaite orienter le jeune sur les offres disponible afin de l'aider à choisir sa voie.
+- En tant que conseillé, je souhaite positionner le jeune sur l'offre afin que le jeune obtienne une place. 
+- En tant qu'entreprise, je peux créer des offres afin de recruter/former des jeunes.
+- En tant que jeune, je souhaite me positionner sur les offres disponible afin d'obtenir une place.
+- En tant que visiteur, je souhaite voir les offres existantes afin de me renseigner.
 
 ### actualité
 
-super admin:
-
-en tant qu'admin je peux :
-
-- poster sur les réseaux sociaux
-
-modérateur:
-
-en tant qu'employé je peux : 
-
-- poster sur les réseaux sociaux
-
-jeune :
-
-en tant que visiteur je peux :
-
-- aller voir les réseaux
-
-- s'inscrire à la newsletters
+- En tant que modérateur, je souhaite mettre en avant les actualités sur le site afin de de montrer
+- En tant que conseillé, je souhaite pouvoir accéder à différentes actualités afin de pouvoir répondre aux questions des jeunes et les informer.
+- En tant que jeune, je souhaite pouvoir accéder à l'actualité du site web afin de découvrir les dernières nouvelles concernant l'entreprise et ses activités.
+- En tant que visiteur, je souhaite voir l'actualité afin de me tenir informé des dernières actualité de la mission locale.
 
 ### Evènement
+
 - En tant que modérateur, je peux afficher, modifier et supprimer les évènements.
 - En tant que conseillé, je conseil et oriente le jeune  afin de confirmer ses choix.
 - En tant que conceillé, je positionne le jeune sur les évènements afin de l'aider.
@@ -222,24 +188,10 @@ en tant que visiteur je peux :
 
 ### communication externe
 
-super admin:
-admin:
-modérateur:
-
-conseillé:
-
-- poste/modifie sur les réseaux
-
-jeune:
-
-- accès au réseaux sociaux
-- participe au réseaux sociaux
-- accès à la newsletter
-
-visiteur:
-
-- accès au réseaux sociaux
-- accès à la newsletter
+- En tant que conseillé, je souhaite poster sur les réseaux sociaux afin de mettre en avant l'implication de la mission locale.
+- En tant que jeune, je souhaite participer aux réseaux sociaux afin de donner mon avis sur la mission locale.
+- En tant que visiteur, je souhaite voir les réseaux sociaux afin de voir les derniers post.
+- En tant que visiteur, je souhaite m'inscrire à la newsletters afin de recevoir les informations.
 
 ### système de notification
 
