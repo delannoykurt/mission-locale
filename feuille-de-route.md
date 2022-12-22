@@ -195,30 +195,22 @@ afin de protéger ma vie privée.
 
 ### système de notification
 
-super admin:
-admin:
-modérateur:
-conseillé:
-jeune:
-visiteur:
+- En tant qu'administrateur, je souhaite voir les échanges entre le conseillé et le jeune.
+- En tant que conseillé, je souhaite recevoir des notifications en temps réel lorsque de nouvelles offres ou actualités sont publiées afin de pouvoir répondre rapidement aux demandes des jeunes.
+- En tant que conseillé, je souhaite recevoir des notification en temps réel lorsque le jeune m'envoi un message afin de répondre rapidement.
+- En tant que jeune intéressé par les offres proposée par différentes entreprises, je souhaite recevoir des notifications lorsque de nouvelles opportunités sont disponibles afin de ne pas manquer une occasion de postuler.
+- En tant que jeune, je souhaite recevoir une notification afin de voir que mon conseillé m'a envoyé un message.
 
 ### gestion RDV
-
-super admin :
-admin :
-modérateur:
-conseillé:
-jeune :
-visiteur :
+- En tant qu'administrateur, je souhaite pouvoir configurer les plages horaires disponibles pour les rendez-vous afin de gérer efficacement l'agenda de l'entreprise.
+- En tant que conseillé, je souhaite pouvoir accéder à un calendrier en ligne qui me permettra de voir les rendez-vous pris par les jeunes et de les gérer de manière efficace.
+- En tant que jeune, je souhaite pouvoir accèder à un calendrier en ligne qui me permettra de voir les disponibilités afin prendre-rendez-vous avec mon conseillé.
+- En tant que visiteur, je veux pouvoir prendre rendez-vous en ligne de manière simple et rapide afin de ne pas avoir à attendre au téléphone.
 
 ### tchat-bot
-
-super admin :
-admin :
-modérateur:
-conseillé:
-jeune :
-visiteur :
+- En tant qu'administrateur, je souhaite pouvoir suivre les statistiques d'utilisation du tchat bot afin de déterminer les sujets qui intéressent le plus les visiteurs et de pouvoir adapter en conséquence les réponses proposées.
+- En tant que conseillé, je veux pouvoir accéder à l'historique des conversations du tchat bot afin de pouvoir mieux comprendre les besoins et les attentes des jeunes.
+- En tant que visiteur, je souhaite pouvoir utiliser le tchat bot pour obtenir rapidement des réponses à mes questions.
 
 ### systeme monitoring
 
