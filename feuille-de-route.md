@@ -209,12 +209,16 @@ afin de protéger ma vie privée.
 
 ### tchat-bot
 - En tant qu'administrateur, je souhaite pouvoir suivre les statistiques d'utilisation du tchat bot afin de déterminer les sujets qui intéressent le plus les visiteurs et de pouvoir adapter en conséquence les réponses proposées.
-- En tant que conseillé, je veux pouvoir accéder à l'historique des conversations du tchat bot afin de pouvoir mieux comprendre les besoins et les attentes des jeunes.
+- En tant que administrateur, je veux pouvoir accéder à l'historique des conversations du tchat bot afin de pouvoir mieux comprendre les besoins et les attentes des jeunes.
 - En tant que visiteur, je souhaite pouvoir utiliser le tchat bot pour obtenir rapidement des réponses à mes questions.
 
 ### systeme monitoring
 - En tant que super admin je peux voir le nombre de personne qui se sont connectés. 
+- En tant que super admin je peux voir les nombres clés disponible sur le site afin de suivre l'évolution du site.
 - En tant qu'administrateur, je souhaite pouvoir configurer les paramètres de monitoring pour surveiller les différents équipements de l'entreprise afin de maintenir leur bon fonctionnement.
 - En tant qu'administrateur, je veux pouvoir autoriser ou refuser l'accès à certaines fonctionnalités du système de monitoring pour les différents utilisateurs en fonction de leurs rôles et de leurs responsabilités.
-- En tant que modérateur, je souhaite pouvoir recevoir des notifications en cas d'anomalie détectée par le système de monitoring afin de pouvoir agir rapidement et éviter tout problème.
-- En tant que modérateur, je veux pouvoir configurer des alertes personnalisées pour être informé immédiatement en cas de problème spécifique sur un équipement ou un processus.
+- En tant qu'administrateur, je souhaite pouvoir recevoir des notifications en cas d'anomalie détectée par le système de monitoring afin de pouvoir agir rapidement et éviter tout problème.
+- En tant que qu'administrateur, je veux pouvoir configurer des alertes personnalisées pour être informé immédiatement en cas de problème spécifique sur un équipement ou un processus.
+- En tant qu'administrateur, je veux pouvoir surveiller la sécurité du système pour protéger les données sensibles des utilisateurs et prévenir les cyberattaques.
+- En tant qu'administrateur, je veux pouvoir surveiller la qualité et l'intégrité des données du système pour m'assurer qu'elles sont précises et à jour.
+
