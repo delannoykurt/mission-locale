@@ -36,7 +36,7 @@
 
 - les visiteurs consultent les actus
 
-- les visiteurs intéragissent avec le tchat-bot
+- les visiteurs interagissent avec le tchat-bot
 
 - les visiteurs peuvent accéder aux réseaux sociaux
 
@@ -82,7 +82,7 @@
 
 - les jeunes peuvent gérer leur profil
 
-- Les jeunes peuvent voir leur conseillé qui leur sont affectés
+- Les jeunes peuvent voir leur conseiller qui leur est affectés
 
 - les jeunes peuvent échanger des documents
 
@@ -157,3 +157,6 @@
   - les entreprises peuvent créer des événèments et des ateliers
 
 - Association :
+
+
+

@@ -1,3 +1,7 @@
+---
+title:afficher un article
+---
+
 ````mermaid
     sequenceDiagram
     rect rgb(255,255,255)
@@ -6,7 +10,7 @@
     participant API
     participant Base de données
     User ->>+ Client web:Clique sur un article
-    alt article existe en BDD:
+    alt article existe en BDD
     rect rgb(229,255,201)  
         Client web->>+ API: Requête pour afficher un article
         API->>+Base de données: Requête pour récupérer l'article
@@ -22,9 +26,6 @@
         API -->>- Client web: renvoie une erreur 404
          Client web   -->>-User : affiche page 404
 end
-       
-  
-
     end 
 end
 

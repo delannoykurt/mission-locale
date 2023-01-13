@@ -24,7 +24,7 @@ Pour faire notre choix de technologie, nous nous sommes posé les bonnes questio
 Pour réaliser ces comparatifs, nous avons mis en place une stratégie permettant de disposer sur un tableur les points essentiels pour répondre aux besoins client. Nous nous sommes appuyés dessus en permanence pour résoudre les différents points de comparaisons et ainsi nous permettre d'avancer dans la bonne direction. Le but de cette méthode de travail et de mettre de côté nos préjugés, nos préférences, et nos goûts envers certaines technologies. Nous nous sommes reposés sur le résultat de nos comparatifs afin de choisir le meilleur en ayant une vue d'ensemble, permettant de répondre au mieux aux besoins de la mission local de Valenciennes.
 
 | Specificites | oui        | non        |
-| ------------ | ---------- | ---------- |
+|--------------|------------|------------|
 | Asynchrone   | x          | -          |
 | Structure    | Monolitic  | API        |
 | SEO          | x          | -          |
@@ -57,7 +57,7 @@ Nous avons comparer quatre des technologies les plus hype, en soit les meilleure
 Ce comparatif se base sur des criteres definis en amont.
 
 |                        |            |         |                |          |
-| ---------------------- | ---------- | ------- | -------------- | -------- |
+|------------------------|------------|---------|----------------|----------|
 | Back                   | Koa        | Fastify | Nest           | Adonis   |
 | Big ou small           | small      | small   | Big            | big      |
 | _ Custo                |            |         | 5              |          |
