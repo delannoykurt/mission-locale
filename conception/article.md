@@ -20,6 +20,38 @@
 | Slug                |             |      |        |          |         |                   |     |
 | Tag                 |             |      |        |          |         |                   |     |
 
+
+
+## Adresse
+
+| Nom           | Désignation | Type | Taille | Remarque | Null  ? | Valeur par défaut |     |
+| ------------- | ----------- | ---- | ------ | -------- | ------- | ----------------- | --- |
+| Nom rue       |             |      |        |          |         |                   |     |
+| Numéro de rue |             |      |        |          |         |                   |     |
+| Code postale  |             |      |        |          |         |                   |     |
+| Ville         |             |      |        |          |         |                   |     |
+
  
 
+## User
 
+| Nom                | Désignation | Type | Taille | Remarque | Null  ? | Valeur par défaut |     |
+| ------------------ | ----------- | ---- | ------ | -------- | ------- | ----------------- | --- |
+| Nom                |             |      |        |          |         |                   |     |
+| Prénom             |             |      |        |          |         |                   |     |
+| Jour de naissance  |             |      |        |          |         |                   |     |
+| Mois de naissance  |             |      |        |          |         |                   |     |
+| Année de naissance |             |      |        |          |         |                   |     |
+| Lieu de naissance  |             |      |        |          |         |                   |     |
+| Nationalitée       |             |      |        |          |         |                   |     |
+| Email              |             |      |        |          |         |                   |     |
+| Tél                |             |      |        |          |         |                   |     |
+
+
+
+## Jeune
+
+| Nom | Désignation | Type | Taille | Remarque | Null  ? | Valeur par défaut |     |
+| --- | ----------- | ---- | ------ | -------- | ------- | ----------------- | --- |
+|     |             |      |        |          |         |                   |     |
+|     |             |      |        |          |         |                   |     |
