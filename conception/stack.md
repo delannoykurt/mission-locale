@@ -40,7 +40,7 @@ Pour réaliser ces comparatifs, nous avons mis en place une stratégie permettan
 
 # Compairaison des technologies
 
-Nous avons mis en place une stragtegie pour evoquer les points essentiel pour differencier les technologies que nous appeleons les tech les plus hype, cette nis en place nous permet de realiser une comparaison de ces differntes technologie avec une approche qui et pertinante, une approche qui ne s'appuie que sur la difference de points attribuer pour chaque technologiesen raison de leurs capacites .... cette notation est attribuer de 1 a 5, en suivant cet approche, nous metteons de cotes nos gout, nospreference en vers certaines technologie et aiinsi eviter de biaiser le resultat le plus pertinant pour les besoins du client.
+Nous avons mis en place une stratégie pour évoquer les points essentiels afin de différencier les technologies "les plus hypes", cette mise en place nous a permis de réaliser une comparaison entre ces différentes technologies tout en ayant une approche pertinante. Nous nous sommes appuyés sur les différents points que nous avons attribué à chaque technologies en raison de leurs capacités. Cette notation est attribuée de 1 a 5, en suivant cette approche, nous mettons de côtés nos préfèrences et ainsi éviter de biaiser le resultat le plus utile pour les besoins du client.
 
 #### Techno vs Techno
 
