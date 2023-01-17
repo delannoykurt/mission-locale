@@ -135,4 +135,4 @@ Il évite le code dit 'spaghetti' car il est structuré. De plus, il nous offre 
 
 ### Les inconvenients
 
-Lourdeur du langage, typescript est un langage qui nous donne une puissance tres grande pour nous developper mais en comtrepartis une coubre d'aprentissage assez dificile pour des debutants. L'impossibilite de changer de framework en cour de route, si nous develloppeons une applis avec angular ces du debut a la fin.
+Le langage n'est pas légé, typescript est un langage qui nous donne une puissance très grande pour nous développer mais en comtrepartis la capacité d'aprentissage est assez dificile pour les debutants. L'impossibilite de changer de framework en cour de route, si nous develloppeons une applis avec angular ces du debut a la fin.
