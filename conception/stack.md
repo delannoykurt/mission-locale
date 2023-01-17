@@ -127,11 +127,11 @@ Angular est un cadre de conception d'application et aussi une plateforme de dév
 
 ### Les avantages
 
-Un framework complet avec une architecture elegante avec une documentation tres etoffe qui nous pemet trouve les informations necessaire aux developpement. Angular dispose aussi d'une grande communaute qui nous permet de toujours nous donne l'occasion de poser des questions.
+C'est un framework complet avec une architecture élégante ayant une documentation trés étoffé permettant de trouver les informations nécessaire aux développements. Angular dispose aussi d'une grande communauté donnant la possibilité de trouver les réponses à nos questions.
 
-MVVM - (Model View ViewModel) nous permet de travailler sur une meme section d'application separement en utilisant le meme ensemble de donnees. Utilise Typescript est tous ces avantages, typage, verification statique et operationnelle de la saisie, fonctions de saisie tres performantes.
+MVVM - (Model View ViewModel) nous permet de travailler sur une même section d'application séparément en utilisant le même ensemble de données. Utilise Typescript est tous ces avantages, typage, vérification statique et opérationnelle de la saisie, fonctions de saisie très performantes.
 
-Evite le code dit 'spaghetti' angukar est structurer et nous offre tou ce dont on a besoins avec une restriction de lanagage, pour une meilleur experience final.
+Il évite le code dit 'spaghetti' car il est structuré. De plus, il nous offre tout ce dont nous avons besoins avec tout de même une restriction de langage afin d'avoir une meilleure experience finale.
 
 ### Les inconvenients
 
