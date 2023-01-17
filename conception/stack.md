@@ -95,13 +95,13 @@ Ce comparatif est basé sur des critères définis en amont.
 | Payant                 | non        | non     | E - enterprise | non      |
 | TOTAL                  | 47853      | 5551    | 22585          | 3726     |
 
-Ci - dessus le tableau récapitulatif montrant les différents critères entre chaque technologies faisant appataître les résultats.
+Ci - dessus le tableau récapitulatif montrant les différents critères entre chaque technologies faisant apparaître les résultats.
 
 Notre comparatif a fait ressortir Nest, de ce fait nous l'avons étudié de plus prêt pour nous assurer de faire le bon choix. Par la suite, nous avons regardé si cette technologie disposait d'une bonne maturite, communaute, etc...
 
 ## Nestjs
 
-Nest est une plateforme Open source, qui dispose d'outils qui nous permettre de creer des applications cote serveur evolutif. Nest nous offre une veritable flexibilitee, dote d'un ecosysteme adaptable nous permettant de faire evoluer nos applications de facon simple, nest tire partis des dernieres fonctionnalite de Javascript et apportant ainsi des modeles de conception mature aux utlisateur nodejs.
+Nest est une plateforme Open source, disposant d'outils permettant de créer des applications côté serveur évolutif. Nest nous offre une véritable flexibilité, doté d'un écosysteme adaptable faisant évoluer nos applications de façon simple. Il tire parti des dernières fonctionnalités de Javascript et apportant ainsi des modèles de conception mature aux utlisateurs nodejs.
 
 ![](https://a.storyblok.com/f/86602/720x442/b9b421160f/nest-pros-cons.jpeg/m/)
 
