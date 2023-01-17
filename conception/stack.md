@@ -121,9 +121,9 @@ Nest est une plateforme Open source, disposant d'outils permettant de créer des
 
 ### Angular, le framework Google
 
-Angular donne la posibilite de faire des composants en javascript, son approche et plutot modulaire et donc nous permet de bootstapper des modules dans une application. Equiper d'un CLI tres puissant et tres apprecies nous pemet de developper nos projet plus rapidement, permet de generer des skeleton, classes, services et composants.
+Angular donne la posibilité de faire des composants en javascript, son approche et plutôt modulaire permettant de bootstrapper des modules dans une application. Equiper d'un CLI très puissant et très populaire, nous pouvons développer nos projet plus rapidement, générant des skeletons, classes, services et composants.
 
-Angular et un cadre de conception d'application et une plateforme de developpement permettant de creer des applications d'une seule page efficace et sophistiquées.
+Angular est un cadre de conception d'application et aussi une plateforme de développement créant des applications d'une seule page efficace et sophistiquée.
 
 ### Les avantages
 
