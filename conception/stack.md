@@ -44,7 +44,8 @@ Nous avons mis en place une stratégie pour évoquer les points essentiels afin 
 
 #### Techno vs Techno
 
-Nous avons comparer quatre des technologies les plus hype, en soit les meilleures technologies pour avoir une meilleure app. Ces technologie sont :
+Nous avons comparé quatre technologies, afin d'obtenir la meilleure application. 
+Ces technologie sont :
 
 - Koa
 
@@ -54,7 +55,7 @@ Nous avons comparer quatre des technologies les plus hype, en soit les meilleure
 
 - Adonys
 
-Ce comparatif se base sur des criteres definis en amont.
+Ce comparatif est basé sur des critères définis en amont.
 
 |                        |            |         |                |          |
 |------------------------|------------|---------|----------------|----------|
