@@ -40,7 +40,7 @@ Pour réaliser ces comparatifs, nous avons mis en place une stratégie permettan
 
 # Compairaison des technologies
 
-Nous avons mis en place une stratégie pour évoquer les points essentiels afin de différencier les technologies "les plus hypes", cette mise en place nous a permis de réaliser une comparaison entre ces différentes technologies tout en ayant une approche pertinante. Nous nous sommes appuyés sur les différents points que nous avons attribué à chaque technologies en raison de leurs capacités. Cette notation est attribuée de 1 a 5, en suivant cette approche, nous mettons de côtés nos préfèrences et ainsi éviter de biaiser le resultat le plus utile pour les besoins du client.
+Nous avons mis en place une stratégie pour évoquer les points essentiels afin de différencier les technologies "les plus hypes", cette mise en place nous a permis de réaliser une comparaison entre ces technologies tout en ayant une approche pertinante. Nous nous sommes appuyés sur les différents points que nous avons attribué à chaque critères en raison de leurs capacités. Cette notation est attribuée de 1 a 5, en suivant cette approche, nous mettons de côtés nos préfèrences et ainsi éviter de biaiser le resultat le plus utile pour les besoins du client.
 
 #### Techno vs Techno
 
@@ -95,9 +95,9 @@ Ce comparatif est basé sur des critères définis en amont.
 | Payant                 | non        | non     | E - enterprise | non      |
 | TOTAL                  | 47853      | 5551    | 22585          | 3726     |
 
-Ci - dessus le tableau recapitulatif des differents criteres necessaire a une comparaison pertinante, en prenant compte de ces points, nous faison le meilleur choix.
+Ci - dessus le tableau récapitulatif montrant les différents critères entre chaque technologies faisant appataître les résultats.
 
-Notre comparatif fait resortir Nest, de ce fait nous avons etudier celui-ci de plus pret pour nous assurer de faire un bon choix, nous avons regarder si cet technologie disposer d'une bonne maturite, communaute, etc...
+Notre comparatif a fait ressortir Nest, de ce fait nous l'avons étudié de plus prêt pour nous assurer de faire le bon choix. Par la suite, nous avons regardé si cette technologie disposait d'une bonne maturite, communaute, etc...
 
 ## Nestjs
 
