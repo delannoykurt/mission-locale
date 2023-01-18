@@ -1,2 +1,3 @@
 - Est-ce important de savoir le département du jeune ?
 - Est-ce important de notifier le lieu de naissance du jeune ?
+- Est-ce qu'il y a uniquement des jeunes de la ville de valenciennes qui peuvent venir chez vous ? marly, thiant ?
