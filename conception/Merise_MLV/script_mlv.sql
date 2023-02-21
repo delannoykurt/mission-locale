@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS moderateur (
     id INT PRIMARY KEY REFERENCES utilisateur(id)
 );
 
-CREATE TABLE IF NOT EXISTS article (
+CREATE TABLE IF NOT EXISTS post (
     id SERIAL PRIMARY KEY,
     titre VARCHAR(50),
     date_creation VARCHAR(50),
@@ -37,30 +37,36 @@ CREATE TABLE IF NOT EXISTS article (
     img_description VARCHAR(50),
     img_titre VARCHAR(50),
     sous_titre VARCHAR(50),
-    contenu TEXT,
-    description VARCHAR(50),
+    contenu text,
+    description VARCHAR(250),
     meta_title VARCHAR(50),
     categories VARCHAR(50),
-    url_video VARCHAR(50),
+    url_video VARCHAR(350),
     slug VARCHAR(50),
     tags VARCHAR(50),
     status VARCHAR(50)
 );
 
+CREATE TABLE IF NOT EXISTS inscrit (
+    id_jeune INT REFERENCES jeune(id),
+    id_post INT REFERENCES post(id),
+    PRIMARY KEY(id_jeune,id_post)
+);
+
 CREATE TABLE IF NOT EXISTS redige (
     id_conseiller INT REFERENCES conseiller(id),
     id_moderateur INT REFERENCES moderateur(id),
-    id_article INT REFERENCES article(id),
-    PRIMARY KEY(id_conseiller,id_moderateur,id_article)
+    id_post INT REFERENCES post(id),
+    PRIMARY KEY(id_conseiller,id_moderateur,id_post)
 );
 
 CREATE TABLE IF NOT EXISTS peut_gerer (
     id_moderateur INT REFERENCES moderateur(id),
-    id_article INT REFERENCES article(id),
-    PRIMARY KEY(id_moderateur,id_article)
+    id_post INT REFERENCES post(id),
+    PRIMARY KEY(id_moderateur,id_post)
 );
 
-CREATE TABLE IF NOT EXISTS est_attribue (
+CREATE TABLE IF NOT EXISTS est_attribuer (
     id_jeune INT REFERENCES jeune(id),
     id_conseiller INT REFERENCES conseiller(id),
     PRIMARY KEY(id_jeune,id_conseiller)
